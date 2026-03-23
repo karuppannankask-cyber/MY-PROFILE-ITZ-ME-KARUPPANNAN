@@ -83,7 +83,7 @@
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karuppannankask-cyber/karuppannankask-cyber/output/github-contribution-grid-snake.svg">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karuppannankask-cyber&theme=tokyonight">
 </p>
 ---
 
