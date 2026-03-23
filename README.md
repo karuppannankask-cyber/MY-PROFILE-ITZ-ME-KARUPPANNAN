@@ -1,80 +1,128 @@
-Here’s your GitHub README in **raw Markdown code** (just copy & paste into `README.md`):
+# 🕶️ KARUPPANNAN K | CYBER SECURITY ENGINEER
 
-```markdown
-# 👋 Hi, I'm Nandhini!
-
-🎓 Cybersecurity Student  
-🔐 Passionate about Ethical Hacking & Digital Security  
-💻 Learning to secure systems and protect data from cyber threats  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=800&lines=Cyber+Security+Student;Ethical+Hacker+%7C+Developer;Offensive+%26+Defensive+Security;Building+Secure+Systems">
+</p>
 
 ---
 
-## 🧠 About Me
-- 🎓 Final Year Student (CSE / Cybersecurity)
-- 🔍 Interested in:
-  - Ethical Hacking
-  - Network Security
-  - Web Application Security
-  - Digital Forensics
-- 🌱 Currently learning:
-  - Penetration Testing
-  - Linux Security
-  - Bug Bounty Hunting
+## 🚀 PROFILE
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Cyber%20Security%20Student-blue?style=for-the-badge&logo=hackthebox">
+  <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-red?style=for-the-badge&logo=protonvpn">
+  <img src="https://img.shields.io/badge/Specialization-Web%20%26%20Network%20Security-green?style=for-the-badge&logo=googlechrome">
+</p>
 
 ---
 
-## 🛠️ Skills
+## ⚔️ CYBER DOMAINS
 
-### 💻 Programming
-- Python 🐍
-- Java ☕
-- Basics of C/C++
-
-### 🔐 Cybersecurity
-- Ethical Hacking
-- Network Security Basics
-- Vulnerability Assessment
-- OWASP Top 10
-
-### ⚙️ Tools
-- Wireshark
-- Nmap
-- Burp Suite
-- Metasploit
-- Git & GitHub
+<p align="center">
+  <img src="https://img.shields.io/badge/Offensive%20Security-Red?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Defensive%20Security-Blue?style=for-the-badge&logo=shield&logoColor=white">
+  <img src="https://img.shields.io/badge/Vulnerability%20Assessment-Orange?style=for-the-badge&logo=bugcrowd">
+  <img src="https://img.shields.io/badge/Penetration%20Testing-black?style=for-the-badge&logo=hackaday">
+</p>
 
 ---
 
-## 📂 Projects
+## 🧠 TECH STACK
 
-### 🔎 Vulnerability Scanner (Mini Project)
-- Built using Python
-- Scans open ports and detects vulnerabilities
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css">
+</p>
 
-### 🌐 Basic Web Security Testing
-- Performed XSS & SQL Injection testing on demo sites
+### 🌐 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap">
+</p>
 
-### 🛡️ Network Analysis
-- Used Wireshark to analyze packet data and detect threats
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb">
+</p>
+
+### 🛠️ Cyber Security Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github">
+  <br><br>
+  <img src="https://img.shields.io/badge/Nmap-Scanner-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wireshark-Analysis-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BurpSuite-Web%20Testing-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Metasploit-Exploitation-red?style=for-the-badge">
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+## 🧬 PROJECTS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Password%20Analyzer-Tool-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Web%20Vulnerability-Scanner-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Network%20Scanner-Tool-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Brute%20Force-Simulator-black?style=for-the-badge">
+</p>
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: your-email@example.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/your-profile
-- 💻 GitHub: https://github.com/your-username
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karuppannankask-cyber&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karuppannankask-cyber&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karuppannankask-cyber&layout=compact&theme=tokyonight
 
 ---
 
-## ⚡ Fun Fact
-"I love breaking systems to learn how to secure them!" 😎
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://github.com/karuppannankask-cyber/karuppannankask-cyber/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 🌐 LEARNING PLATFORMS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge&logo=tryhackme">
+  <img src="https://img.shields.io/badge/HackTheBox-Learning-green?style=for-the-badge&logo=hackthebox">
+  <img src="https://img.shields.io/badge/PortSwigger-Practice-orange?style=for-the-badge&logo=burpsuite">
+</p>
+
+---
+
+## 📡 CONNECT
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-your-email@example.com-red?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/LinkedIn-yourprofile-blue?style=for-the-badge&logo=linkedin">
+</p>
+
+---
+
+## 🧠 PHILOSOPHY
+
+> "Think like a hacker, defend like an engineer."
+
+---
+
+## ⚡ STATUS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Progress-Advanced%20Learning-success?style=for-the-badge">
+</p>
+
+---
+
+## 🚨 SECURITY NOTICE
+
+```diff
+- Unauthorized Access ❌
++ Ethical Hacking Only ✔
 ```
-
----
-
-If you want, I can upgrade this into a **🔥 hacker-style animated README** with badges, typing effects, and TryHackMe stats.
