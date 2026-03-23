@@ -97,13 +97,25 @@
 
 ---
 
-## 📡 CONNECT
+## 📡 CONNECT WITH ME
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Email-karuppannankask@gmail.com-red?style=for-the-badge&logo=gmail">
-  <img src="https://img.shields.io/badge/Instagram-blackbrother-red?style=for-the-badge&logo=Instagram">
+  <a href="mailto:karuppannankask@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/karuppannankask-cyber">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  
+  <a href="https://instagram.com/mr._spark_">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+  <a href="https://wa.me/919025903431">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </p>
-
 ---
 
 ## 🧠 PHILOSOPHY
