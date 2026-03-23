@@ -100,8 +100,8 @@
 ## 📡 CONNECT
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Email-your-email@example.com-red?style=for-the-badge&logo=gmail">
-  <img src="https://img.shields.io/badge/LinkedIn-yourprofile-blue?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/Email-karuppannankask@gmail.com-red?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Instagram-blackbrother-red?style=for-the-badge&logo=Instagram">
 </p>
 
 ---
