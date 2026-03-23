@@ -75,16 +75,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karuppannankask-cyber&layout=compact&theme=tokyonight
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karuppannankask-cyber&layout=compact&theme=tokyonight">
+</p>
 
 ---
 
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://github.com/karuppannankask-cyber/karuppannankask-cyber/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/karuppannankask-cyber/karuppannankask-cyber/output/github-contribution-grid-snake.svg">
 </p>
-
 ---
 
 ## 🌐 LEARNING PLATFORMS
